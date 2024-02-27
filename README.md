@@ -1,6 +1,6 @@
-This is the readme file of the simple\_shell repo for the project 0x16. C - Simple Shell.
+This is the readme file of the simple\_shell repo for the project 0x16. C - Simple Shell.  
 
-\n
+
 **SIMPLE SHELL, HSH**
 
 Like the Bourne Again Shell, `bash`, with path `bin/bash`, or
